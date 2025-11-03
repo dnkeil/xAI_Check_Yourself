@@ -9,7 +9,7 @@ Prompt Assessment Tool for Hallucination Risks -or-  Check yourself before you w
   - Save
 - Click on the project name under projects in the left side panel to open a new chat in the project
 - Enter the prompt to be evaluated and submit
-- Grok 4 will review and discuss your prompt for various risks and refactor the prompt to emilinate them as needed.
+- Grok 4 will review and discuss your prompt for various risks and refactor the prompt to eliminate them as needed.
 - Use that refactored prompt for (ideally) better results.  
 
 ## Why it works
